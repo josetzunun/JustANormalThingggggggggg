@@ -11,3 +11,13 @@
     <h4 align="center"><b>Also yeah im ready you see this website yeah click it!</b>
 <h4 align="center"><b>And here is the website link:
   <h4 align="center"><b>josetzunun.github.io/JustANormalThingggggggggg</b>
+<h1 align="center">
+  <br>
+  <a href="https://blueedge.me/"><img src="https://raw.githubusercontent.com/blueedgetechno/blueedgetechnoaccets/master/icons/home.png" alt="NEXT PAGE" width="200"></a>
+<br>
+  <b>Next Page!</b>
+  <br>
+<h1>
+  
+<h4 align="center"><b>Welcome to the next page! ive gotten an idea... it will be made tomorrow (11/17/2021)</b>
+  AND ALSO NOTHING WILL BE GIVEN TO POOP PEOPLd
